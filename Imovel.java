@@ -1,23 +1,48 @@
-//classe de modelagem
+/*//classe de modelagem
 public class Imovel{
 
 //atributos de classe-->endereço e preço
-    private String endereço;
-    private double preço;
+    private String endereco;
+    private double preco;
 
 //
-public String getEndereço(){
-    return this.endereço;
+public String getEndereco(){
+    return this.endereco;
 }
-public void setEndereço(String endereço){
-    this.endereço=endereço;
+public void setEndereco(String endereco){
+    this.endereco=endereco;
 }
 
-public double getPreço(){
-    return this.preço;
+public double getPreco(){
+    return this.preco;
 }
-public void setPreço(double preço){
-    this.preço=preço;
+public void setPreco(double preco){
+    this.preco=preco;
 }
+
+}*/
+
+public class Imovel{
+
+    private String endereco;
+    private double preco;
+
+
+    public String getEnderco(){
+        return this.endereco;
+    }
+
+    public void setEndereco(String endereco){
+        this.endereco = endereco;
+    }
+
+    public double getPreco(){
+        return this.preco;
+    }
+
+    public void setPreco(double preco){
+        this.preco = preco;
+    }
+
 
 }

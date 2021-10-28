@@ -1,13 +1,13 @@
 public class Novo extends Imovel{
 
 //atributo
-    private double adicionalPreço;
+    private double adicionalPreco;
 
-    public void setAdicionalPreço(double adicionalPreço){
-        this.adicionalPreço=adicionalPreço;
+    public void setAdicionalPreco(double adicionalPreco){
+        this.adicionalPreco=adicionalPreco;
     }
-    public double getAdicionalPreço(){
-        return this.adicionalPreço;
+    public double getAdicionalPreco(){
+        return this.adicionalPreco;
     }
 
 }
